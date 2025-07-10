@@ -21,4 +21,4 @@ Perfect for:
 
 Click below to download:
 
-➡️ [`mflash-mac.zip`](./mflash-mac.zip)
+➡️ [`mflash-mac.zip`](https://github.com/Naxod-com/mflash/releases/download/mflash/mflash-mac.zip)
